@@ -1,4 +1,4 @@
-# firstprojvue
+# tasks
 
 ## Project setup
 ```
